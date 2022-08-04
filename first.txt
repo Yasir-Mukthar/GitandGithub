@@ -1,6 +1,5 @@
 This is a text. 
 After first commit now again changing file and commiting.
 ....................
-Now i am using diff command to comparing working and staging area.
-Again i am using diff.
-hello dkd
+Now i am  command to comparing working and staging area.
+using diff
