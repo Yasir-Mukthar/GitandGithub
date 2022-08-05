@@ -1,6 +1,0 @@
-This is a text. 
-After first commit now again changing file and commiting.
-....................
-Now i am  command to comparing working and staging area.
-using diff
-new line added
